@@ -1,0 +1,212 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-chno="1" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:1:1:22D4:EEEE0000:0:0:0:" tvg-name="CASTILLA-LAMANCHA",CASTILLA-LAMANCHA
+#EXTVLCOPT:program=1
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:1:1:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="531" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:213:6B:22D4:EEEE0000:0:0:0:" tvg-name="Mancha Centro TV",Mancha Centro TV
+#EXTVLCOPT:program=531
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:213:6B:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="277" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:115:E:22D4:EEEE0000:0:0:0:" tvg-name="DMAX",DMAX
+#EXTVLCOPT:program=277
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:115:E:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="278" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:116:E:22D4:EEEE0000:0:0:0:" tvg-name="GOL",GOL
+#EXTVLCOPT:program=278
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:116:E:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="41001" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:A029:9C40:22D4:EEEE0000:0:0:0:" tvg-name="DKISS",DKISS
+#EXTVLCOPT:program=41001
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:A029:9C40:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="40002" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:9C42:9C40:22D4:EEEE0000:0:0:0:" tvg-name="tdp",tdp
+#EXTVLCOPT:program=40002
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:9C42:9C40:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="40004" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:9C44:9C40:22D4:EEEE0000:0:0:0:" tvg-name="Clan",Clan
+#EXTVLCOPT:program=40004
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:9C44:9C40:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="584" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:248:79:22D4:EEEE0000:0:0:0:" tvg-name="Canal Diocesano",Canal Diocesano
+#EXTVLCOPT:program=584
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:248:79:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="585" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:249:79:22D4:EEEE0000:0:0:0:" tvg-name="TeleToledo",TeleToledo
+#EXTVLCOPT:program=585
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:249:79:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="104" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:68:12:22D4:EEEE0000:0:0:0:" tvg-name="TEN",TEN
+#EXTVLCOPT:program=104
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:68:12:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="150" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:96:F:22D4:EEEE0000:0:0:0:" tvg-name="antena3",antena3
+#EXTVLCOPT:program=150
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:96:F:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="152" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:98:F:22D4:EEEE0000:0:0:0:" tvg-name="laSexta",laSexta
+#EXTVLCOPT:program=152
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:98:F:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="153" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:99:F:22D4:EEEE0000:0:0:0:" tvg-name="neox",neox
+#EXTVLCOPT:program=153
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:99:F:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="154" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:9A:F:22D4:EEEE0000:0:0:0:" tvg-name="nova",nova
+#EXTVLCOPT:program=154
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:9A:F:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="155" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:9B:11:22D4:EEEE0000:0:0:0:" tvg-name="mega",mega
+#EXTVLCOPT:program=155
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:9B:11:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="170" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:AA:11:22D4:EEEE0000:0:0:0:" tvg-name="TRECE",TRECE
+#EXTVLCOPT:program=170
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:AA:11:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="186" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:BA:10:22D4:EEEE0000:0:0:0:" tvg-name="Telecinco",Telecinco
+#EXTVLCOPT:program=186
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:BA:10:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="187" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:BB:10:22D4:EEEE0000:0:0:0:" tvg-name="Cuatro",Cuatro
+#EXTVLCOPT:program=187
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:BB:10:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="188" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:BC:10:22D4:EEEE0000:0:0:0:" tvg-name="FDF",FDF
+#EXTVLCOPT:program=188
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:BC:10:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="189" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:BD:10:22D4:EEEE0000:0:0:0:" tvg-name="Divinity",Divinity
+#EXTVLCOPT:program=189
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:BD:10:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="192" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:C0:11:22D4:EEEE0000:0:0:0:" tvg-name="Energy",Energy
+#EXTVLCOPT:program=192
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:C0:11:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="193" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:C1:11:22D4:EEEE0000:0:0:0:" tvg-name="Boing",Boing
+#EXTVLCOPT:program=193
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:C1:11:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="201" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:C9:E:22D4:EEEE0000:0:0:0:" tvg-name="Disney Channel",Disney Channel
+#EXTVLCOPT:program=201
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:C9:E:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="202" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:CA:E:22D4:EEEE0000:0:0:0:" tvg-name="PARAMOUNT NETWORK",PARAMOUNT NETWORK
+#EXTVLCOPT:program=202
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:CA:E:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="460" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:1CC:3ED:22D4:EEEE0000:0:0:0:" tvg-name="La 1",La 1
+#EXTVLCOPT:program=460
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:1CC:3ED:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="461" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:1CD:3ED:22D4:EEEE0000:0:0:0:" tvg-name="La 2",La 2
+#EXTVLCOPT:program=461
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:1CD:3ED:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="462" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1:1CE:3ED:22D4:EEEE0000:0:0:0:" tvg-name="24h",24h
+#EXTVLCOPT:program=462
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1:1CE:3ED:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="3" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:3:1:22D4:EEEE0000:0:0:0:" tvg-name="RCLM TO",RCLM TO
+#EXTVLCOPT:program=3
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:3:1:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="4" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:4:1:22D4:EEEE0000:0:0:0:" tvg-name="RCLM AB",RCLM AB
+#EXTVLCOPT:program=4
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:4:1:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="6" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:6:1:22D4:EEEE0000:0:0:0:" tvg-name="RCLM CR",RCLM CR
+#EXTVLCOPT:program=6
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:6:1:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="7" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:7:1:22D4:EEEE0000:0:0:0:" tvg-name="RCLM CU",RCLM CU
+#EXTVLCOPT:program=7
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:7:1:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="8" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:8:1:22D4:EEEE0000:0:0:0:" tvg-name="RCLM GU",RCLM GU
+#EXTVLCOPT:program=8
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:8:1:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="10" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:A:1:22D4:EEEE0000:0:0:0:" tvg-name="RCLM TLV",RCLM TLV
+#EXTVLCOPT:program=10
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:A:1:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="280" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:118:E:22D4:EEEE0000:0:0:0:" tvg-name="RADIO MARCA",RADIO MARCA
+#EXTVLCOPT:program=280
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:118:E:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="281" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:119:E:22D4:EEEE0000:0:0:0:" tvg-name="Vaughan Radio",Vaughan Radio
+#EXTVLCOPT:program=281
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:119:E:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="282" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:11A:E:22D4:EEEE0000:0:0:0:" tvg-name="CADENA 100",CADENA 100
+#EXTVLCOPT:program=282
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:11A:E:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="283" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:11B:E:22D4:EEEE0000:0:0:0:" tvg-name="RADIO MARIA",RADIO MARIA
+#EXTVLCOPT:program=283
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:11B:E:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="41002" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:A02A:9C40:22D4:EEEE0000:0:0:0:" tvg-name="Kiss FM",Kiss FM
+#EXTVLCOPT:program=41002
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:A02A:9C40:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="41003" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:A02B:9C40:22D4:EEEE0000:0:0:0:" tvg-name="HIT FM",HIT FM
+#EXTVLCOPT:program=41003
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:A02B:9C40:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="41004" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:A02C:9C40:22D4:EEEE0000:0:0:0:" tvg-name="esRadio",esRadio
+#EXTVLCOPT:program=41004
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:A02C:9C40:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="41005" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:A02D:9C40:22D4:EEEE0000:0:0:0:" tvg-name="SER",SER
+#EXTVLCOPT:program=41005
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:A02D:9C40:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="41006" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:A02E:9C40:22D4:EEEE0000:0:0:0:" tvg-name="LOS40",LOS40
+#EXTVLCOPT:program=41006
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:A02E:9C40:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="41007" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:A02F:9C40:22D4:EEEE0000:0:0:0:" tvg-name="DIAL",DIAL
+#EXTVLCOPT:program=41007
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:A02F:9C40:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="40005" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:9C45:9C40:22D4:EEEE0000:0:0:0:" tvg-name="Radio Clasica HQ RNE",Radio Clasica HQ RNE
+#EXTVLCOPT:program=40005
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:9C45:9C40:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="40006" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:9C46:9C40:22D4:EEEE0000:0:0:0:" tvg-name="Radio3 HQ RNE",Radio3 HQ RNE
+#EXTVLCOPT:program=40006
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:9C46:9C40:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="40007" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:9C47:9C40:22D4:EEEE0000:0:0:0:" tvg-name="Radio Exterior RNE",Radio Exterior RNE
+#EXTVLCOPT:program=40007
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:9C47:9C40:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="105" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:69:12:22D4:EEEE0000:0:0:0:" tvg-name="LOS40 Classic",LOS40 Classic
+#EXTVLCOPT:program=105
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:69:12:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="106" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:6A:12:22D4:EEEE0000:0:0:0:" tvg-name="LOS40 Urban",LOS40 Urban
+#EXTVLCOPT:program=106
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:6A:12:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="107" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:6B:12:22D4:EEEE0000:0:0:0:" tvg-name="Radiolé",Radiolé
+#EXTVLCOPT:program=107
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:6B:12:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="156" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:9C:11:22D4:EEEE0000:0:0:0:" tvg-name="ONDA CERO",ONDA CERO
+#EXTVLCOPT:program=156
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:9C:11:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="157" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:9D:11:22D4:EEEE0000:0:0:0:" tvg-name="EUROPA FM",EUROPA FM
+#EXTVLCOPT:program=157
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:9D:11:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="158" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:9E:11:22D4:EEEE0000:0:0:0:" tvg-name="MELODIA FM",MELODIA FM
+#EXTVLCOPT:program=158
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:9E:11:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="171" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:AB:11:22D4:EEEE0000:0:0:0:" tvg-name="COPE",COPE
+#EXTVLCOPT:program=171
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:AB:11:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="172" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:AC:11:22D4:EEEE0000:0:0:0:" tvg-name="Rock FM",Rock FM
+#EXTVLCOPT:program=172
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:AC:11:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="465" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:1D1:3ED:22D4:EEEE0000:0:0:0:" tvg-name="RNE Castilla La Mancha",RNE Castilla La Mancha
+#EXTVLCOPT:program=465
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:1D1:3ED:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="466" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:2:1D2:3ED:22D4:EEEE0000:0:0:0:" tvg-name="Radio 5 RNE",Radio 5 RNE
+#EXTVLCOPT:program=466
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:2:1D2:3ED:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="2" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:19:2:1:22D4:EEEE0000:0:0:0:" tvg-name="HDCASTILLA-LAMANCHA",HDCASTILLA-LAMANCHA
+#EXTVLCOPT:program=2
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:19:2:1:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="40001" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:19:9C41:9C40:22D4:EEEE0000:0:0:0:" tvg-name="Clan HD",Clan HD
+#EXTVLCOPT:program=40001
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:19:9C41:9C40:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="40003" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:19:9C43:9C40:22D4:EEEE0000:0:0:0:" tvg-name="tdp HD",tdp HD
+#EXTVLCOPT:program=40003
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:19:9C43:9C40:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="101" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:19:65:12:22D4:EEEE0000:0:0:0:" tvg-name="atreseries HD",atreseries HD
+#EXTVLCOPT:program=101
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:19:65:12:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="102" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:19:66:12:22D4:EEEE0000:0:0:0:" tvg-name="BeMad tv HD",BeMad tv HD
+#EXTVLCOPT:program=102
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:19:66:12:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="103" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:19:67:12:22D4:EEEE0000:0:0:0:" tvg-name="Realmadrid TV HD",Realmadrid TV HD
+#EXTVLCOPT:program=103
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:19:67:12:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="149" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:19:95:F:22D4:EEEE0000:0:0:0:" tvg-name="antena3 HD",antena3 HD
+#EXTVLCOPT:program=149
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:19:95:F:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="151" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:19:97:F:22D4:EEEE0000:0:0:0:" tvg-name="laSexta HD",laSexta HD
+#EXTVLCOPT:program=151
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:19:97:F:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="190" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:19:BE:10:22D4:EEEE0000:0:0:0:" tvg-name="Telecinco HD",Telecinco HD
+#EXTVLCOPT:program=190
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:19:BE:10:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="191" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:19:BF:10:22D4:EEEE0000:0:0:0:" tvg-name="Cuatro HD",Cuatro HD
+#EXTVLCOPT:program=191
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:19:BF:10:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="463" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:19:1CF:3ED:22D4:EEEE0000:0:0:0:" tvg-name="24h HD",24h HD
+#EXTVLCOPT:program=463
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:19:1CF:3ED:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="464" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:19:1D0:3ED:22D4:EEEE0000:0:0:0:" tvg-name="La 1 HD",La 1 HD
+#EXTVLCOPT:program=464
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:19:1D0:3ED:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="468" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:19:1D4:3ED:22D4:EEEE0000:0:0:0:" tvg-name="La 2 HD",La 2 HD
+#EXTVLCOPT:program=468
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:19:1D4:3ED:22D4:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-chno="60" tvg-logo="http://root:richiardo@zgemmah7s.ddns.net/images/default_picon.png" tvg-id="1:0:1F:3C:3C:22D4:EEEE0000:0:0:0:" tvg-name="Canal 4K UHD Pruebas",Canal 4K UHD Pruebas
+#EXTVLCOPT:program=60
+http://root:richiardo@zgemmah7s.ddns.net:8001/1:0:1F:3C:3C:22D4:EEEE0000:0:0:0:
